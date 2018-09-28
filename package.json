@@ -1,0 +1,11 @@
+{
+  "name": "boot-grid",
+  "version": "1.0.0",
+  "description": "A bootstrap lookalike grid based on CSS Grid",
+  "devDependencies": {
+    "stylelint": "^9.2.1",
+    "stylelint-config-standard": "^18.2.0"
+  },
+  "author": "Stavros Liaskos <stavros.liaskos@sparwelt.de> - SPARWELT GmbH",
+  "license": "ISC TODO"
+}
